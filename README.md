@@ -22,7 +22,7 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente —__*el jueg
 
 > ​Después de intentar aventurarse por sí solo entre la hierba alta, una voz advierte al jugador que se detenga. El Profesor Oak, un famoso investigador Pokémon, le explica al jugador que diferentes Pokémon salvajes pueden estar viviendo ahí, por lo que si se llega a encontrar con uno de ellos, puede resultar muy peligroso.
 
-#### Otras versiones
+## Otras versiones
 
 1. Pocket Monsters: Blue
 2. Pocket Monsters: Yellow
@@ -33,7 +33,7 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente —__*el jueg
         b. [The Pokémon Company](https://es.wikipedia.org/wiki/The_Pok%C3%A9mon_Company)
 4. Pokémon Ruby y Sapphire
 
-#### Extracto de código del juego
+## Extracto de código del juego
 
 ```javascript
 <div class="collapse" id="collapseExample">
@@ -44,15 +44,16 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente —__*el jueg
   </div>
 </div>
 ```
-#### Producción
+## Producción
 
 Cargo | Responsable
 ------------ | -------------
 Diseño de personajes | Ken Sugimori
 Productores | Shigeru Miyamoto
-Programadores | Teruki Murakawa
+Programadores | Teruki Murakawa <br>Kohta Fukui</br>
 Productores | Kenji Matsushima
 
-#### Fin
+## Fin
 
-Felicitaciones 
+Felicitaciones :tada: :tada: :tada: :tada:
+
